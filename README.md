@@ -3,6 +3,7 @@
 ## Posts
 
  - [2026/001 Dell dock display disorientation](./2026/001/dell-dock-display-disorientation.md)
+ - [2026/000 CXX RS shared library](./2026/000/cxx-rs-shared-libs.md)
 
 ## Context
 
