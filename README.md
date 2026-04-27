@@ -2,6 +2,8 @@
 
 ## Posts
 
+ - [2026/001 Dell dock display disorientation](./2026/001/dell-dock-display-disorientation.md)
+
 ## Context
 
 I'm a backend dev. I don't oppose UX, but most of what I produce are CLIs or APIs.
