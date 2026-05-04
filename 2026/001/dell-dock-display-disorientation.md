@@ -2,6 +2,9 @@
 
 > The page is ordered to help solution seekers who care little about side notes.
 
+> It looks like I'm not out of the woods yet, as I still have the screen-off issue occurring after
+> reboots. I mostly hibernate, so that doesn't happen too often.
+
 ## Long story short
 
 - After driver and firmware updates to a Dell Precision 56xx and a Dell WD19 dock, some
